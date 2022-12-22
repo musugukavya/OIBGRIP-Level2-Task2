@@ -2,8 +2,6 @@
     background-color: rgb(232, 254, 230);
     text-indent: 10px;
 }
-
-
 #head{
     font-style: normal;
     font-size: 50px;
@@ -17,10 +15,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #img{
-    /* background-color: rgb(72, 55, 14); */
     justify-content: center;
-
-    
 }
 #dob{
     color: rgb(10, 18, 103) ;
